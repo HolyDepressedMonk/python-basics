@@ -21,7 +21,7 @@ Explanation: 2 occurs 3 times in the array
              4 occurs 2 time in the array
 """
 
-# Optmial Approach
+# Optimal Approach
 
 from collections import defaultdict
 # we use defaultdict so python does the initialization automatically.
